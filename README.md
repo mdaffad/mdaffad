@@ -1,4 +1,4 @@
-I am Daffa, a fresh graduate at Institut Teknologi Bandung. I am backend engineer enthusiast with experience in Python
+I am Daffa, a software engineer enthusiast with experience in backend and devops.
 
 ## 🔗 Link
 - Gmail - [muhammaddaffadinaya@gmail.com](mailto:muhammaddaffadinaya@gmail.com)
